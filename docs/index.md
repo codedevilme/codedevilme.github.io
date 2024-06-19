@@ -1,4 +1,5 @@
-<h1 align="center"> CODE DEVIL (@codedevilme)</h1>
+<br/>
+<br/>
 <br/>
 <p align="center">
   <a href="https://github.com/codedevilme">
@@ -6,20 +7,23 @@
   </a>
 </p>
 <br/>
+<br/>
 <h1 align="center">
   Don't hate the code, It's just ones and zeros.
 </h1>
 <br />
+<br />
 <div align="center">
-
   <p align="center">
-    <a href="https://github.com/codedevilme">Follow me on the <strong>GitHub »</strong></a>
-    <br />
-    <br />
-    <a href="https://blog.codedevil.me">Blog</a>
+    <a href="https://github.com/codedevilme">Follow me on the <strong>GitHub</strong></a>
     ·
     <a href="https://youtube.com/@codedevilme">Youtube</a>
     ·
     <a href="https://twitter.com/codedevilme">Twitter</a>
+    and
+    <a href="https://blog.codedevil.me">Read My Blog</a>
   </p>
 </div>
+<br />
+<br />
+<br />
