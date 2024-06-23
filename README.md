@@ -1,6 +1,6 @@
 # codedevilme.github.io
 
-> My GitHub website.
+My GitHub website.
 
 # Credits :two_hearts:
 
@@ -11,7 +11,7 @@
 
 View [CONTRIBUTING.md](/CONTRIBUTING.md) for information
 
-# Issues :fire
+# Issues :fire:
 
 Bug reports and feature requests can be submitted on the [Github Issues](/../../issues).
 
