@@ -2,22 +2,37 @@
 
 My GitHub website.
 
+<br>
+<br>
+
 # Credits :two_hearts:
 
 - [@codedevilme](https://www.github.com/codedevilme) | [contact@codedevil.me](https://codedevil.me) | [www.codedevil.me](https://codedevil.me)
 - [Contributors](/../../graphs/contributors)
 
+<br>
+<br>
+
 # Get Involved :sparkles:
 
 View [CONTRIBUTING.md](/CONTRIBUTING.md) for information
+
+<br>
+<br>
 
 # Issues :fire:
 
 Bug reports and feature requests can be submitted on the [Github Issues](/../../issues).
 
+<br>
+<br>
+
 # Code of Conduct :thumbsup:
 
 This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Code of Conduct](/CODE_OF_CONDUCT.md).
+
+<br>
+<br>
 
 # License :zap:
 
@@ -45,7 +60,13 @@ This project is intended to be a safe, welcoming space for collaboration, and co
 - :no_entry: ~~Trademark use~~
 - :x: Warranty
 
+<br>
+<br>
+
 # Copyright :copyright: :heart:
 
 - Copyright © 2024 Code Devil [@codedevilme](https://github.com/codedevilme).
 - Copyright © 2024 [Contributors](/../../graphs/contributors).
+
+<br>
+<br>
