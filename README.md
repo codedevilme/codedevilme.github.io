@@ -1,3 +1,12 @@
+
+<div align="center" style="text-align: center;">
+  <a href="https://codedevil.me">
+    <img src="https://avatars.githubusercontent.com/u/172581874?v=4" alt="Don’t hate the code, It’s just ones and zeros." width="100%">
+  </a>
+</div>
+
+<br><br>
+
 # "Don’t hate the code, It’s just ones and zeros."
 
 ## This online persona for sale..!
