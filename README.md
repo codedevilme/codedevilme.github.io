@@ -1,10 +1,10 @@
-# This online persona for sale..!
+# "Don’t hate the code, It’s just ones and zeros."
+
+## This online persona for sale..!
 
 Unlock the opportunity to own an engaging online persona! 
 Perfect for influencers, entrepreneurs, or anyone looking to stand out in the digital world.
 Don’t miss your chance to elevate your online presence!
-
-## "Don’t hate the code, It’s just ones and zeros."
 
 - Domain Name: `CODEDEVIL.ME`
 - Price: `$299` _Buy It Now_
@@ -29,9 +29,8 @@ The .me extension is a powerful bonus, making it inherently personal—ideal for
 
 best suited for a die-hard software developer, or code geek
 
-_Ultimate domain for the developer who bends the rules_
-
 > Contact
 > 
 > contact@codedevil.me
 
+_Ultimate domain for the developer who bends the rules_
